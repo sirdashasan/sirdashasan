@@ -5,8 +5,8 @@
 
 
 
-<h1 align="center">I'm Hasan Sırdaş</h1>
-<h3 align="center">Full-Stack Developer with a Product-Oriented Mindset</h3>
+<h1 align="center">I'm Hasan Sırdaş, Full-Stack Developer with a Product-Oriented Mindset.</h1>
+<h3 align="center">Full-Stack Developer with experience in web & mobile development. Worked on a mobile application that reached 1M+ downloads. Interested in user acquisition, viral growth strategies and building high-performance applications.</h3>
 
 
 
