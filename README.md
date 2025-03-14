@@ -143,14 +143,18 @@
   </td>
   </tr>
 
-    <tr>
-    <td align="center">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-        <br>Figma
-      </a>
-    </td>
-    </tr>
+   <tr>
+  <td align="center">
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+      <br>Figma
+    </a>
+  </td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
    
 </table>
 
