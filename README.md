@@ -158,12 +158,7 @@
     <td></td>
     <td></td>
   </tr>
-
- 
-
-   
 </table>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirdashasan&show_icons=true&locale=en&layout=compact" alt="sirdashasan" /></p>
