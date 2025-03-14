@@ -8,9 +8,12 @@
 <h1 align="center">Hi 👋, I'm Hasan Sırdaş</h1>
 <h3 align="center">Full-Stack Developer with a Product-Oriented Mindset</h3>
 
+
+<div align="center">
 - 👨‍💻 All of my projects are available at [https://hasansirdas.site/](https://hasansirdas.site/)
 
 - 📫 How to reach me **hasansirdas96@gmail.com**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
