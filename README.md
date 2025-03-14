@@ -135,6 +135,8 @@
   
  
   <tr>
+    <td></td>
+    <td></td>
     <td align="center">
       <a href="https://www.selenium.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50"/>
@@ -147,20 +149,17 @@
       <br>Cypress
     </a>
   </td>
-  </tr>
-
-   <tr>
-     <td></td>
-  <td></td>
-  <td align="center">
+     <td align="center">
     <a href="https://www.figma.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
       <br>Figma
     </a>
   </td>
-  <td></td>
-  <td></td>
-</tr>
+    <td></td>
+    <td></td>
+  </tr>
+
+ 
 
    
 </table>
