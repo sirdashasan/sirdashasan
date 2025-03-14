@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Hasan Sırdaş</h1>
+<h1 align="center">I'm Hasan Sırdaş</h1>
 <h3 align="center">Full-Stack Developer with a Product-Oriented Mindset</h3>
 
 
