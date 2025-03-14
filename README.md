@@ -11,7 +11,6 @@
 
 <div align="center">
 - 👨‍💻 All of my projects are available at [https://hasansirdas.site/](https://hasansirdas.site/)
-
 - 📫 How to reach me **hasansirdas96@gmail.com**
 </div>
 
