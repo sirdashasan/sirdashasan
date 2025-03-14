@@ -74,6 +74,7 @@
 </tr>
 
 <tr>
+  <td></td>
 <td align="center">
     <a href="https://www.java.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -104,6 +105,7 @@
         <br>Postman
       </a>
     </td>
+  <td></td>
 </tr>
 
 <tr>
