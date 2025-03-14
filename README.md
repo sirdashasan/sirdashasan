@@ -123,6 +123,30 @@
         <br>Postman
       </a>
     </td>
+    <td align="center">
+    <a href="https://www.cypress.io/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="50" height="50"/>
+      <br>Cypress
+    </a>
+  </td>
+    <td align="center">
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+      <br>CSS3
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+      <br>HTML5
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.java.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+      <br>Java
+    </a>
+  </td>
   </tr>
 </table>
 
