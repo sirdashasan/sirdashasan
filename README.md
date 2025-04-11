@@ -43,7 +43,7 @@
   </td>
   <td align="center">
       <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="50" height="50"/>
         <br>Tailwind CSS
       </a>
     </td>
