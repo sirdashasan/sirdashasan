@@ -101,7 +101,7 @@
     </td>
   <td align="center">
       <a href="https://postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+        <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="50" height="50"/>
         <br>Postman
       </a>
     </td>
