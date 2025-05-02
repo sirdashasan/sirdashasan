@@ -6,7 +6,7 @@
 
 
 <h1 align="center">I'm Hasan Sırdaş, Full-Stack Developer with a Product-Oriented Mindset.</h1>
-<h3 align="center">Full-Stack Developer with experience in web & mobile development. Worked on a mobile application that reached 1M+ downloads. Interested in user acquisition, viral growth strategies and building high-performance applications.</h3>
+<h3 align="center">Full-Stack Developer with experience in web and mobile development. Contributed to a mobile application that reached over 1M downloads. Passionate about building high-performance applications and delivering end-to-end full-stack solutions.</h3>
 
 
 
@@ -125,7 +125,7 @@
     </td>
     <td align="center">
       <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+        <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" width="50" height="50"/>
         <br>Firebase
       </a>
     </td>
